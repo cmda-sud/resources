@@ -69,6 +69,20 @@ Sketch Master by Peter Nowell | [Course](http://sketchmaster.com/)
 The Sketch Guide by Scott Tolinski | [Course](https://www.leveluptutorials.com/tutorials/the-sketch-guide)
 Sketch 3 from A to Z: Become an App Designer by  Joseph Angelo Todaro| [Course](https://www.udemy.com/learnsketch3/)
 
+## Courses
+Name and description | Link
+-------------------- | -------------
+Sketch Runner | [Website](http://sketchrunner.com/)
+Midnight - Dark Theme | [Website](https://midnightsketch.com/)
+Stark | [Website](http://www.getstark.co/)
+Reduce | [Website](https://flawlessapp.io/reduce)
+Shared Text Styles | [GitHub](https://github.com/nilshoenson/shared-text-styles)
+Sketch Palettes | [GitHub](https://github.com/andrewfiorillo/sketch-palettes)
+Looper | [GitHub](https://github.com/sureskumar/Looper)
+Sketch Icons | [GitHub](https://github.com/AMoreaux/Sketch-Icons)
+Alembic | [GitHub](https://github.com/awkward/Alembic)
+Sketch Cache Cleaner | [GitHub](https://github.com/yo-op/sketchcachecleaner)
+
 ## Conduct
 Staff and students of the Amsterdam University of Applied Sciences (Hogeschool van Amsterdam) are additionally bound by the [Regulation Undesirable Conduct](https://www.amsterdamuas.com/practical-matters/algemeen/hva-breed/juridische-zaken/legal-affairs/regulation-undesirable-conduct/regulation-undesirable-conduct.html#anker-3-complaints-authority).
 

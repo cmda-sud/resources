@@ -1,6 +1,8 @@
 # Resources
 
 ![Example banner](cmda-sud-resources-banner.jpg)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
 > Additional resources for further learning.
 
 ## Introduction
@@ -62,7 +64,7 @@ Name and description | Link
 ## Courses
 Name and description | Link
 -------------------- | -------------
-Style Guide Driven Development by Bitovi | [Course](www.styleguidedrivendevelopment.com)
+Style Guide Driven Development by Bitovi | [Course](http://www.styleguidedrivendevelopment.com/)
 Sketch Master by Peter Nowell | [Course](http://sketchmaster.com/)
 The Sketch Guide by Scott Tolinski | [Course](https://www.leveluptutorials.com/tutorials/the-sketch-guide)
 Sketch 3 from A to Z: Become an App Designer by  Joseph Angelo Todaro| [Course](https://www.udemy.com/learnsketch3/)

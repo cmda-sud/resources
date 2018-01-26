@@ -41,6 +41,14 @@ Using Sketch Libraries to build better design systems | [Medium](https://blog.us
 Workplace Hygiene in Sketch | [Medium](https://uxdesign.cc/workplace-hygiene-in-sketch-dc8184c0dc8f)
 Recreating a living Design System in Sketch | [Medium](https://medium.com/carwow-product-engineering/recreating-a-living-design-system-in-sketch-b21159c72441)
 
+## Documentation 
+Name and description | Link
+-------------------- | -------------
+The Interface | [Docs](https://sketchapp.com/docs/the-interface/)
+Color Management | [Docs](https://sketchapp.com/docs/other/color-management/)
+Libraries | [Docs](https://sketchapp.com/docs/libraries/)
+Symbols| [Docs](https://sketchapp.com/docs/symbols/)
+
 ## Conduct
 Staff and students of the Amsterdam University of Applied Sciences (Hogeschool van Amsterdam) are additionally bound by the [Regulation Undesirable Conduct](https://www.amsterdamuas.com/practical-matters/algemeen/hva-breed/juridische-zaken/legal-affairs/regulation-undesirable-conduct/regulation-undesirable-conduct.html#anker-3-complaints-authority).
 

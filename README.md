@@ -49,6 +49,15 @@ Color Management | [Docs](https://sketchapp.com/docs/other/color-management/)
 Libraries | [Docs](https://sketchapp.com/docs/libraries/)
 Symbols| [Docs](https://sketchapp.com/docs/symbols/)
 
+## Books 
+Name and description | Link
+-------------------- | -------------
+“Design Systems” by Alla Kholmatova’s | [Book](https://www.smashingmagazine.com/design-systems-book/)
+“Atomic Design” by Brad Frost | [Book](http://atomicdesign.bradfrost.com/)
+“Frontend Architecture for Design Systems” by Micah Godbolt | [Book](http://shop.oreilly.com/product/0636920040156.do)
+“The Sketch Handbook” by Micah Godbolt | [Book](https://www.smashingmagazine.com/sketch-handbook/)
+
+
 ## Conduct
 Staff and students of the Amsterdam University of Applied Sciences (Hogeschool van Amsterdam) are additionally bound by the [Regulation Undesirable Conduct](https://www.amsterdamuas.com/practical-matters/algemeen/hva-breed/juridische-zaken/legal-affairs/regulation-undesirable-conduct/regulation-undesirable-conduct.html#anker-3-complaints-authority).
 

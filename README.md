@@ -40,6 +40,8 @@ Libraries, an in-depth look | [Medium](https://blog.sketchapp.com/libraries-an-i
 Using Sketch Libraries to build better design systems | [Medium](https://blog.usejournal.com/using-sketch-libraries-to-build-a-better-ui-design-system-part-1-26f5660f3c98)
 Workplace Hygiene in Sketch | [Medium](https://uxdesign.cc/workplace-hygiene-in-sketch-dc8184c0dc8f)
 Recreating a living Design System in Sketch | [Medium](https://medium.com/carwow-product-engineering/recreating-a-living-design-system-in-sketch-b21159c72441)
+Colour management, part 1 | [Blog](https://bjango.com/articles/colourmanagementgamut/)
+Colour management, part 2 | [Blog](https://bjango.com/articles/colourmanagementgamma/)
 
 ## Documentation 
 Name and description | Link

@@ -32,13 +32,14 @@ How Sketch took over 200GB of our MacBooks | [Medium](https://medium.com/@thomas
 Sketch is not a UX design tool | [Medium](https://medium.com/swlh/sketch-is-not-a-ux-design-tool-e819e55e7f54)
 Dynamic Icons in Sketch | [Medium](https://uxdesign.cc/dynamic-icons-in-sketch-29463c946434)
 This Will Make You a Sketch Layer Merging Pro | [Medium](https://medium.com/sketch-app-sources/this-will-make-you-a-sketch-layer-merging-pro-86dd556a225c)
-Text System Mastery with Shared Styles | [Medium](https://medium.com/sketch-app-sources/text-system-mastery-with-shared-styles-9931bea7d085)Recreating a living Design System in Sketch | [Medium](https://medium.com/carwow-product-engineering/recreating-a-living-design-system-in-sketch-b21159c72441)
+Text System Mastery with Shared Styles | [Medium](https://medium.com/sketch-app-sources/text-system-mastery-with-shared-styles-9931bea7d085)
 Sketch Libraries: How they work, and the crazy stuff you can do with them | [Medium](https://medium.com/ux-power-tools/sketch-libraries-how-they-work-and-the-crazy-stuff-you-can-do-with-them-fc10f142ac80)
 Setting Up a Design System | [Medium](https://medium.com/sketch-app-sources/setting-up-a-design-system-8729510def93)
 Mastering the Sketch Vector Tool | [Medium](https://journal.yummygum.com/mastering-the-sketch-vector-tool-7ff5c6975a79)
 Libraries, an in-depth look | [Medium](https://blog.sketchapp.com/libraries-an-in-depth-look-56b147022e1f)
 Using Sketch Libraries to build better design systems | [Medium](https://blog.usejournal.com/using-sketch-libraries-to-build-a-better-ui-design-system-part-1-26f5660f3c98)
 Workplace Hygiene in Sketch | [Medium](https://uxdesign.cc/workplace-hygiene-in-sketch-dc8184c0dc8f)
+Recreating a living Design System in Sketch | [Medium]((https://medium.com/carwow-product-engineering/recreating-a-living-design-system-in-sketch-b21159c72441)
 
 ## Conduct
 Staff and students of the Amsterdam University of Applied Sciences (Hogeschool van Amsterdam) are additionally bound by the [Regulation Undesirable Conduct](https://www.amsterdamuas.com/practical-matters/algemeen/hva-breed/juridische-zaken/legal-affairs/regulation-undesirable-conduct/regulation-undesirable-conduct.html#anker-3-complaints-authority).

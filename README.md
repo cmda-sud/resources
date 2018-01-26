@@ -59,6 +59,13 @@ Name and description | Link
 “Frontend Architecture for Design Systems” by Micah Godbolt | [Book](http://shop.oreilly.com/product/0636920040156.do)
 “The Sketch Handbook” by Micah Godbolt | [Book](https://www.smashingmagazine.com/sketch-handbook/)
 
+## Courses
+Name and description | Link
+-------------------- | -------------
+Style Guide Driven Development by Bitovi | [Course](www.styleguidedrivendevelopment.com)
+Sketch Master by Peter Nowell | [Course](http://sketchmaster.com/)
+The Sketch Guide by Scott Tolinski | [Course](https://www.leveluptutorials.com/tutorials/the-sketch-guide)
+Sketch 3 from A to Z: Become an App Designer by  Joseph Angelo Todaro| [Course](https://www.udemy.com/learnsketch3/)
 
 ## Conduct
 Staff and students of the Amsterdam University of Applied Sciences (Hogeschool van Amsterdam) are additionally bound by the [Regulation Undesirable Conduct](https://www.amsterdamuas.com/practical-matters/algemeen/hva-breed/juridische-zaken/legal-affairs/regulation-undesirable-conduct/regulation-undesirable-conduct.html#anker-3-complaints-authority).

@@ -39,7 +39,7 @@ Mastering the Sketch Vector Tool | [Medium](https://journal.yummygum.com/masteri
 Libraries, an in-depth look | [Medium](https://blog.sketchapp.com/libraries-an-in-depth-look-56b147022e1f)
 Using Sketch Libraries to build better design systems | [Medium](https://blog.usejournal.com/using-sketch-libraries-to-build-a-better-ui-design-system-part-1-26f5660f3c98)
 Workplace Hygiene in Sketch | [Medium](https://uxdesign.cc/workplace-hygiene-in-sketch-dc8184c0dc8f)
-Recreating a living Design System in Sketch | [Medium]((https://medium.com/carwow-product-engineering/recreating-a-living-design-system-in-sketch-b21159c72441)
+Recreating a living Design System in Sketch | [Medium](https://medium.com/carwow-product-engineering/recreating-a-living-design-system-in-sketch-b21159c72441)
 
 ## Conduct
 Staff and students of the Amsterdam University of Applied Sciences (Hogeschool van Amsterdam) are additionally bound by the [Regulation Undesirable Conduct](https://www.amsterdamuas.com/practical-matters/algemeen/hva-breed/juridische-zaken/legal-affairs/regulation-undesirable-conduct/regulation-undesirable-conduct.html#anker-3-complaints-authority).
